@@ -1,1 +1,1 @@
-# This project is by no means open-source, and all rights reserved by SwankyNoob Inc., this project is part of SpellSpike.
+# This project is in no way open-source, and is all rights reserved from SwankyNoob Inc., this project is part of SpellSpike.
