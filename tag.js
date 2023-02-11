@@ -16,4 +16,4 @@ function SpikeScript(element){
 			element.innerHTML = "<script>'"+gravatar+"'</script>";
 		}
 }	
-customTag("SpikeScript",codingdudeGravatar);
+customTag("SpikeScript",SpikeScript);
